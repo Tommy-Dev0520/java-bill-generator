@@ -9,7 +9,7 @@ Funciona de una manera muy sencilla, sirve para generar una factura de compra pa
 - Nombre del cliente
 - Nombre de los 3 productos
 -  Valor unitario de cada producto
--Cantidad de cada producto
+- Cantidad de cada producto
 
 El sistema calcula automaticamente lo siguiente al presionar el boton "CALCULAR"
 
