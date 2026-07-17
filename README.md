@@ -28,7 +28,7 @@ El sistema calcula automaticamente lo siguiente al presionar el boton "CALCULAR"
  - Desarrollar una interfaz grafica mas completa en Java Swing
  - Usar multiples componentes de una misma interfaz para resolver un problema
  - Hacer calculos con varios datos ingresados por el usuario
- - Usar Double.parseDouble para trabajar valores decimales
+ - Usar Double.parseDouble() para trabajar valores decimales
  - Recopilar info mediante JTextField
  - Desarrollar una aplicacion funcional capaz de crear una factura de compra a partir de los datos ingresados por el usuario
  - Organizar la logica de una aplicacion mas grande, dividiendola en pasos (recoleccion de datos, procesamiento y muestra de resultados)
